@@ -35,17 +35,26 @@
 ### 實現：簡易 Java 編輯器
 > 可支援基本輸入輸出，目前僅用於JDK內建方法 & 計算不得超過10秒
 
-![DEMO 1](/DEMO/Demo1.jpg)        ![DEMO 1-1](/DEMO/Demo1-1.jpg)
+<div style="display: flex; gap: 20px;">
+  <img src="/DEMO/Demo1.jpg" alt="DEMO 1" style="width: 45%;">
+  <img src="/DEMO/Demo1-1.jpg" alt="DEMO 1-1" style="width: 45%;">
+</div>
 
 ### 實現：便利貼牆
 > 生成方塊採用InterFrame，隨內容自動縮放待實作
 
-![DEMO 2-1](/DEMO/Demo2-1.jpg)    ![DEMO 2-2](/DEMO/Demo2-2.jpg)
+<div style="display: flex; gap: 20px;">
+  <img src="/DEMO/Demo2-1.jpg" alt="DEMO 2-1" style="width: 45%;">
+  <img src="/DEMO/Demo2-2.jpg" alt="DEMO 2-2" style="width: 45%;">
+</div>
 
 ### 實現：DJNative 靜態瀏覽器
 > 僅支援非JS生成的靜態網站
 
-![DEMO 3](/DEMO/Demo3.jpg)![DEMO 3-2](/DEMO/Demo3-2.jpg)
+<div style="display: flex; gap: 20px;">
+  <img src="/DEMO/Demo3.jpg" alt="DEMO 3" style="width: 45%;">
+  <img src="/DEMO/Demo3-2.jpg" alt="DEMO 3-2" style="width: 45%;">
+</div>
 
 ### 實現：VLC 撥放器(測試中)
 > 基本撥放功能，沒有燒錄和另存新檔功能
