@@ -44,6 +44,7 @@
   <img src="/DEMO/Demo1.jpg" alt="DEMO 1" style="width: 45%;">
   <img src="/DEMO/Demo1-1.jpg" alt="DEMO 1-1" style="width: 45%;">
 </div>
+
 > 可支援基本輸入輸出，目前僅用於JDK內建方法 & 計算不得超過10秒
 
 ### 實現：便利貼牆
@@ -52,6 +53,7 @@
   <img src="/DEMO/Demo2-1.jpg" alt="DEMO 2-1" style="width: 45%;">
   <img src="/DEMO/Demo2-2.jpg" alt="DEMO 2-2" style="width: 45%;">
 </div>
+
 > 生成方塊採用InterFrame，隨內容自動縮放待實作
 
 ### 實現：DJNative 靜態瀏覽器
@@ -60,6 +62,7 @@
   <img src="/DEMO/Demo3.jpg" alt="DEMO 3" style="width: 45%;">
   <img src="/DEMO/Demo3-2.jpg" alt="DEMO 3-2" style="width: 45%;">
 </div>
+
 > 僅支援非JS生成的靜態網站
 
 ### 實現：VLC 撥放器(測試中)
@@ -67,6 +70,7 @@
 <div style="display: flex;">
   <img src="/DEMO/Demo4.jpg" alt="DEMO 4" style="width: 90%;">
 </div>
+
 
 ## 第三方jar來源
 
