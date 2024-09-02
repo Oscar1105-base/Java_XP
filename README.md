@@ -25,11 +25,11 @@
 
 ### DEMO 展示
 
-![DEMO 1](/DEMO/demo1.jpg)
+![DEMO 1](/DEMO/Demo1.jpg)
 
-![DEMO 2](/DEMO/demo2.jpg)
+![DEMO 2](/DEMO/Demo2.jpg)
 
-![DEMO 3](/DEMO/demo3.jpg)
+![DEMO 3](/DEMO/Demo3.jpg)
 
 ## 不知道如何開始
 
