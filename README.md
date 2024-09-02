@@ -1,4 +1,4 @@
-# Java_XP 簡介
+# Java_XP
 
 用 Java Swing 模擬 Windows XP 桌面的小型專案，目前仍在測試當中!
 
