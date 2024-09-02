@@ -2,7 +2,7 @@
 
 嘗試用 Java swing 寫出一個類似 Windows XP 的小型專案，請多指教 
 
-![GitHub 簡介](sample.jpg)
+![GitHub 簡介](/sample.jpg)
 > 2024/09/02 bata 1.0 edit
 
 ## 前情提要
@@ -25,11 +25,11 @@
 
 ### DEMO 展示
 
-![DEMO 1](demo1.jpg)
+![DEMO 1](/DEMO/demo1.jpg)
 
-![DEMO 2](demo2.jpg)
+![DEMO 2](/DEMO/demo2.jpg)
 
-![DEMO 3](demo3.jpg)
+![DEMO 3](/DEMO/demo3.jpg)
 
 ## 不知道如何開始
 
