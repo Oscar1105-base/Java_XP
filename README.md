@@ -1,45 +1,42 @@
-# GitHub 簡介
+# Java_XP 簡介
 
-這是一個嘗試用 Java swing 寫出一個類似 Windows XP 的小型專案，請多指教 
+嘗試用 Java swing 寫出一個類似 Windows XP 的小型專案，請多指教 
 ![GitHub 簡介](sample.jpg)
+> 2024/09/02 bata 1.0 edit
 
+## 前情提要
 
+使用 Jbr-17 開發，支援 JDK 17 以上環境
+
+- Windows 系統需先下載 VLC Player 64位元
+- Linux 暫未開放
 
 ## 大綱
 
-在這堂課中，包含：
+在這專案中，包含：
 
-- 追蹤裝置上的工作專案
-- 與其他人共同開發專案
-- 如何貢獻網路上的開源軟體
-
-### 開始之前
-
-在你開始課程之前，你需要安裝 Git 這套套件。在你的終端機上輸入：
-`git --version`
-
-若你的裝置上沒有安裝 Git，[請下載並安裝 Git](https://git-scm.com/downloads)。 安裝完之後，請設定裝置本地 Git 的使用者設定。
-* `git config --global user.name "your-name"`
-* `git config --global user.email "your-email"`
-
-要確認 Git 使用者設定是否完成，你可以輸入：
-`git config --list`
-
-此外，你需要一組 GitHub 的帳戶、一款文字編輯器 (如：Visual Studio Code) 與你的終端機 (或 command prompt)。
-
-若你缺少 GitHub 帳戶，請前往 [github.com](https://github.com/)建立並登入一組帳戶，遵循指示完成資料的填寫。 
-
-✅ GitHub 不是唯一的程式碼數據庫，但 GitHub 是家喻戶曉的。
-
-### 課前準備
-
-你需要在裝置(筆電或電腦)上建立程式專案的資料夾，與 GitHub 公共的數據庫(Public Repository)。之後的例子會使用到此公共數據庫來與他人分享程式碼。
+- Windows 系統預設工具
+- 簡易 Java 編輯器
+- 3 款小遊戲
+- VLC、DJNative 第三方jar檔導入
 
 ---
 
-## 程式碼管理
+### DEMO 展示
 
-假設你的本地端資料夾存放著一些程式專案，你想利用 Git 來作專案追蹤與版本控制，甚至是對未來的你寫一封情書。在一天、一週甚至是一個月後閱讀你的提交紀錄，了解當初你的決定，回想之前的更動。前提是當初你有寫一條完整的提交紀錄。
+![DEMO 1](demo1.jpg)
+
+![DEMO 2](demo2.jpg)
+
+![DEMO 3](demo3.jpg)
+
+## 不知道如何開始
+
+剛進畫面不知每個功能的界線，可以先點擊右下角齒輪(設定)，再開啟開發者模式，即可看到房間布局與模擬桌面的架構
+
+![DEMO 1](start1.jpg)
+
+![DEMO 1](start2.jpg)
 
 ### 課題：建立數據庫並提交程式碼
 
