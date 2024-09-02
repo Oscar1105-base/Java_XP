@@ -1,8 +1,11 @@
 # Java_XP 簡介
 
-用 Java swing 模擬 Windows XP 桌面的小型專案，目前仍在測試當中!
+用 Java Swing 模擬 Windows XP 桌面的小型專案，目前仍在測試當中!
 
-![GitHub 簡介](/sample.jpg)
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <img src="/sample.jpg" alt="GitHub 簡介" style="width: 90%;">
+</div>
+
 > 2024/09/02 bata 1.0 edit
 
 ## 前情提要
@@ -19,13 +22,16 @@
 - Windows 系統預設工具
 - 簡易 Java 編輯器
 - 3 款小遊戲
-- VLC、DJNative 第三方jar檔導入
+- VLC、DJNative 第三方 jar 檔導入
 
 ### 如何知道主畫面有哪些功能?
 
 點擊右下角⚙️設定，開啟🕶️開發模式，即可看到!!
 
-![layout](/DEMO/layout.jpg)
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <img src="/DEMO/layout.jpg" alt="layout" style="width: 90%;">
+</div>
+
 > 目前功能顯示只有繪製綠線，文字顯示仍在修復中
 
 ---
