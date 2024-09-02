@@ -35,12 +35,12 @@
 ### 實現：簡易 Java 編輯器
 > 可支援基本輸入輸出，目前僅用於JDK內建方法 & 計算不得超過10秒
 
-![DEMO 1](/DEMO/Demo1.jpg) ![DEMO 1-1](/DEMO/Demo1-1.jpg)
+![DEMO 1](/DEMO/Demo1.jpg)        ![DEMO 1-1](/DEMO/Demo1-1.jpg)
 
 ### 實現：便利貼牆
 > 生成方塊採用InterFrame，隨內容自動縮放待實作
 
-![DEMO 2-1](/DEMO/Demo2-1.jpg) ![DEMO 2-2](/DEMO/Demo2-2.jpg)
+![DEMO 2-1](/DEMO/Demo2-1.jpg)    ![DEMO 2-2](/DEMO/Demo2-2.jpg)
 
 ### 實現：DJNative 靜態瀏覽器
 > 僅支援非JS生成的靜態網站
