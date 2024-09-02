@@ -1,6 +1,6 @@
 # Java_XP 簡介
 
-嘗試用 Java swing 寫出一個類似 Windows XP 的小型專案，請多指教 
+用 Java swing 寫出一個類似 Windows XP 的小型專案，請多指教 
 
 ![GitHub 簡介](/sample.jpg)
 > 2024/09/02 bata 1.0 edit
@@ -14,7 +14,7 @@
 
 ## 大綱
 
-在這專案中，包含：
+在這專案中，包含以下功能：
 
 - Windows 系統預設工具
 - 簡易 Java 編輯器
@@ -25,23 +25,23 @@
 
 ## DEMO 展示
 
-### 課題：簡易 Java 編輯器
+### 實現：簡易 Java 編輯器
 
 ![DEMO 1](/DEMO/Demo1.jpg)
 
-### 課題：便利貼牆
+### 實現：便利貼牆
 
 ![DEMO 2](/DEMO/Demo2.jpg)
 
-### 課題：DJNative 靜態瀏覽器
+### 實現：DJNative 靜態瀏覽器
 
 ![DEMO 3](/DEMO/Demo3.jpg)
 
-## 如何知道功能界線
+## 如何知道主畫面有哪些功能?
 
-剛進畫面可以先點擊右下角⚙️設定，開啟🕶️開發模式，即可看到房間布局與模擬桌面的架構
+點擊右下角⚙️設定，開啟🕶️開發模式，即可看到!!
 
 
-## 
+## 第三方jar來源
 
 完成[第一週在 GitHub 上](https://lab.github.com/githubtraining/first-week-on-github)
