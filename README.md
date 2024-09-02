@@ -34,7 +34,7 @@
 
 ### 實現：簡易 Java 編輯器
 
-![DEMO 1](/DEMO/Demo1.jpg)
+![DEMO 1](/DEMO/Demo1.jpg)![DEMO 1-1](/DEMO/Demo1-1.jpg)
 
 ### 實現：便利貼牆
 
@@ -42,7 +42,7 @@
 
 ### 實現：DJNative 靜態瀏覽器
 
-![DEMO 3](/DEMO/Demo3.jpg)
+![DEMO 3](/DEMO/Demo3.jpg)![DEMO 3-2](/DEMO/Demo3-2.jpg)
 
 ### 實現：VLC 撥放器(測試中)
 
