@@ -1,6 +1,6 @@
 # Java_XP 簡介
 
-用 Java swing 寫出一個類似 Windows XP 的小型專案，請多指教 
+用 Java swing 模擬 Windows XP 桌面的小型專案，目前仍在測試當中!
 
 ![GitHub 簡介](/sample.jpg)
 > 2024/09/02 bata 1.0 edit
