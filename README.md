@@ -68,7 +68,7 @@
 ### 實現：VLC 撥放器(測試中)
 
 <div style="display: flex;">
-  <img src="/DEMO/Demo4.jpg" alt="DEMO 4" style="width: 70%;">
+  <img src="/DEMO/Demo4.jpg" alt="DEMO 4" style="width: 45%;">
 </div>
 
 
