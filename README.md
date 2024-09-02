@@ -38,7 +38,7 @@
 
 ### 實現：便利貼牆
 
-![DEMO 2](/DEMO/Demo2.jpg)![DEMO 2-2](/DEMO/Demo2-2.jpg)
+![DEMO 2-1](/DEMO/Demo2-1.jpg)![DEMO 2-2](/DEMO/Demo2-2.jpg)
 
 ### 實現：DJNative 靜態瀏覽器
 
