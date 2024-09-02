@@ -11,7 +11,7 @@
 ## 前情提要
 
 使用 JBR-17 開發，支援 JDK 17 以上環境
-
+需要先安裝VLC Player
 - Windows 系統需先下載 VLC Player 64位元
 - Linux 暫未開放
 
