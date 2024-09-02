@@ -25,15 +25,15 @@
 
 ## DEMO 展示
 
-### 課題：建立數據庫並提交程式碼
+### 課題：簡易 Java 編輯器
 
 ![DEMO 1](/DEMO/Demo1.jpg)
 
-### 課題：建立數據庫並提交程式碼
+### 課題：便利貼牆
 
 ![DEMO 2](/DEMO/Demo2.jpg)
 
-### 課題：建立數據庫並提交程式碼
+### 課題：DJNative 靜態瀏覽器
 
 ![DEMO 3](/DEMO/Demo3.jpg)
 
@@ -42,6 +42,6 @@
 剛進畫面可以先點擊右下角⚙️設定，開啟🕶️開發模式，即可看到房間布局與模擬桌面的架構
 
 
-## 作業
+## 
 
 完成[第一週在 GitHub 上](https://lab.github.com/githubtraining/first-week-on-github)
