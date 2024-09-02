@@ -15,9 +15,9 @@
 - Windows 系統需先下載 VLC Player 64位元
 - Linux 暫未開放
 
-### 大綱
+### 主要功能
 
-在這專案中，包含以下功能：
+這專案中包含以下功能：
 
 - Windows 系統預設工具
 - 簡易 Java 編輯器
@@ -71,6 +71,7 @@
   <img src="/DEMO/Demo4.jpg" alt="DEMO 4" style="width: 45%;">
 </div>
 
+> 僅有基本撥放、輪播與開啟檔案
 
 ## 第三方jar來源
 
