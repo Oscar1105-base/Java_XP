@@ -58,8 +58,9 @@
 
 ### 實現：VLC 撥放器(測試中)
 
-![DEMO 4](/DEMO/Demo4.jpg)
-> 基本撥放功能，沒有燒錄和另存新檔功能
+<div style="display: flex;">
+  <img src="/DEMO/Demo4.jpg" alt="DEMO 4" style="width: 100%;">
+</div>
 
 ## 第三方jar來源
 
