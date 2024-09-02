@@ -44,4 +44,4 @@
 
 ## 第三方jar來源
 
-DJNative靜態網站[下載路徑](https://sourceforge.net/projects/djproject/files/DJ%20Native%20Swing/)
+DJNative靜態瀏覽器 [sourceforge下載路徑](https://sourceforge.net/projects/djproject/files/DJ%20Native%20Swing/)
