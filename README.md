@@ -21,6 +21,10 @@
 - 3 款小遊戲
 - VLC、DJNative 第三方jar檔導入
 
+## 如何知道主畫面有哪些功能?
+
+點擊右下角⚙️設定，開啟🕶️開發模式，即可看到!!
+
 ---
 
 ## DEMO 展示
@@ -37,11 +41,7 @@
 
 ![DEMO 3](/DEMO/Demo3.jpg)
 
-## 如何知道主畫面有哪些功能?
-
-點擊右下角⚙️設定，開啟🕶️開發模式，即可看到!!
-
 
 ## 第三方jar來源
 
-完成[第一週在 GitHub 上](https://lab.github.com/githubtraining/first-week-on-github)
+DJNative靜態網站[下載路徑](https://sourceforge.net/projects/djproject/files/DJ%20Native%20Swing/)
