@@ -55,4 +55,4 @@
 ## 第三方jar來源
 
 - DJNative靜態瀏覽器 [sourceforge下載路徑](https://sourceforge.net/projects/djproject/files/DJ%20Native%20Swing/)
-- VLCJ VLC撥放器  [JAR-download下載路徑](https://jar-download.com/?search_box=vlcj)
+- VLCJ VLC撥放器     [JAR-download下載路徑](https://jar-download.com/?search_box=vlcj)
