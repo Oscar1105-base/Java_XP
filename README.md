@@ -1,6 +1,6 @@
 # Java_XP
 
-用 Java Swing 模擬 Windows XP 桌面的小型專案，目前仍在測試當中!
+用 Java Swing 模擬 Windows XP 桌面的小型專案!
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <img src="/sample.jpg" alt="GitHub 簡介" style="width: 90%;">
@@ -13,7 +13,6 @@
 使用 JBR-17 開發，支援 JDK 17 以上環境
 
 - Windows 系統需先下載 VLC Player 64位元
-- Linux 暫未開放
 
 ### 主要功能
 
